@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20I'm%20Himanshu%20Sharma%20👋&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<h2>🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h2>
+<h2>🚀 Full Stack Developer | Tech Enthusiast | Problem Solver |Ai Engineer </h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -78,21 +78,6 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
 
----
-
-<!-- GITHUB STATISTICS -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshu-dot-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-dot-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -114,35 +99,6 @@ const developer = {
 
 ---
 
-<!-- TROPHIES -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=himanshu-dot-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
-
-</div>
-
----
-
-<!-- PROJECTS -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/himanshu-dot-dev/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-dot-dev&repo=PROJECT_1&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/himanshu-dot-dev/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-dot-dev&repo=PROJECT_2&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
 
 <!-- CONNECT -->
 
