@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20I'm%20Himanshu%20Sharma%20👋&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<h2>🚀 Full Stack Developer | Tech Enthusiast | Problem Solver |Ai Engineer </h2>
+<h2>🚀 Full Stack Developer | Tech Enthusiast | Problem Solver | Ai Engineer </h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" />
 
