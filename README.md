@@ -6,14 +6,14 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20I'm%20YOUR_NAME%20👋&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20I'm%20Himanshu%20Sharma%20👋&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <h2>🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=himanshu-dot-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -26,18 +26,18 @@
 
 ```javascript
 const developer = {
-    name: "YOUR_NAME",
+    name: "Himanshu Sharma",
     role: "Full Stack Developer",
-    location: "YOUR_LOCATION",
-    code: ["JavaScript", "TypeScript", "Python"],
+    location: "India",
+    code: ["JavaScript", "TypeScript", "PHP"],
     technologies: {
-        frontend: ["React", "Next.js", "HTML", "CSS"],
-        backend: ["Node.js", "Express", "Python"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "GitHub", "Docker", "VS Code"]
+        frontend: ["React", "js", "HTML", "CSS"],
+        backend: ["Node.js", "Express", "PHP"],
+        databases: ["MongoDB", "Supabase", "MySQL","Pinecone"],
+        tools: ["Git", "GitHub", "Docker", "VS Code","Claude Code"]
     },
-    currentlyLearning: "YOUR_CURRENT_TECH",
-    hobbies: ["Coding", "Building Projects", "Learning"],
+    currentlyLearning: "AI/ML",
+    hobbies: ["Coding", "Building Projects", "Learning","MMA 🥊"],
     motto: "Code. Create. Innovate. Repeat."
 };
 ```
@@ -86,9 +86,9 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshu-dot-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-dot-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -98,7 +98,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=himanshu-dot-dev&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -108,7 +108,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/himanshu-dot-dev/himanshu-dot-dev/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
 
@@ -120,7 +120,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=himanshu-dot-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
 </div>
 
@@ -132,12 +132,12 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=transparent&hide_border=true" />
+<a href="https://github.com/himanshu-dot-dev/PROJECT_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-dot-dev&repo=PROJECT_1&theme=transparent&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=transparent&hide_border=true" />
+<a href="https://github.com/himanshu-dot-dev/PROJECT_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-dot-dev&repo=PROJECT_2&theme=transparent&hide_border=true" />
 </a>
 
 </div>
@@ -150,19 +150,19 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/himanshu-dot-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/himanshu-sharma-programmer/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://x.com/HimanshuSupDev">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:himanshudotdev2003@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
