@@ -57,25 +57,25 @@ const developer = {
 ### 🎨 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase,supabase,pinecone" />
 </p>
 
 ### 🔧 Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,postman,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
 
 ---
